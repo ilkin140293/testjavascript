@@ -1,3 +1,6 @@
+
+
+
 const numbersOfFilms = prompt('Сколько фильмов вы уже посмотрели?');
 alert(numbersOfFilms);
 
